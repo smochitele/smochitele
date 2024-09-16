@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on e-commerce sites
 - 📫 How to reach me via LinkedIn https://www.linkedin.com/in/seleme-mochitele-0a3b49120/
-- ⚡ Fun fact: I'm a great cook :)
+- ⚡ Fun fact: Besides being an excellent dev, I'm a great cook :)
 
 <!---
 smochitele/smochitele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
